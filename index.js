@@ -221,7 +221,7 @@ const startCreating = async () => {
       // create empty image
       ctx.clearRect(0, 0, width, height);
       // draw a random background color
-      drawBackground();
+      //drawBackground();
       // store information about each layer to add it as meta information
       let attributesList = [];
       // draw each layer
